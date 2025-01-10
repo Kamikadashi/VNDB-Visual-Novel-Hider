@@ -5,7 +5,7 @@ This userscript allows you to hide specific visual novels from VNDB tag pages, s
 ## Installation
 
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Click [here](#) to install the script (replace `#` with the raw script URL).
+2. Click [here](https://github.com/Kamikadashi/VNDB-Visual-Novel-Hider/raw/refs/heads/main/VNDB%20Visual%20Novel%20Hider%20(Optimized%20for%20Large%20Lists)-1.5.7.user.js) to install the script.
 3. Refresh your VNDB pages.
 
 ## Usage
